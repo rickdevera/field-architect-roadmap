@@ -124,24 +124,6 @@ Success Metric:
 
 ---
 
-### Publishing Cadence
-
-Weekly:
-
-* 1 five-minute insight
-* 2 short-form clips
-* 1 LinkedIn architectural post
-
-Monthly:
-
-* 1 structured essay
-* 1 lab or workshop enhancement
-
-Quarterly:
-
-* 1 flagship release or live workshop
-
----
 
 ## 5. Lab & Technical Environment Strategy
 
